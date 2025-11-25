@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi I'm Maheswari Vaishno Rout 
+
+ 
+
+## I'm exploring opportunities in the ML and DL space. I enjoy working with C, C++, Python, Dart, Flutter, and Firebase. I'm learning how to connect machine learning with app development to build smarter and more      useful applications.
+
+##-🌱 Currently learning: Machine Learning, Deep Learning, and how to deploy models inside mobile apps  
+##-🎯 Goal: Build apps that use ML in simple and practical ways  
+
 
 <!--
 **MAHESWARI-ROUT/MAHESWARI-ROUT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
