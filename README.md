@@ -7,8 +7,6 @@ B.Tech CSE (AI & ML) | Odisha University of Technology & Research
 <p align="center">
 🏆 Branch Topper (CGPA: <b>9.75/10</b>) <br>
 💻 AI Engineer • Full Stack Developer • Software Enthusiast <br>
-🌱 Currently learning Docker, PostgreSQL, AWS & System Design
-</p>
 
 ---
 
@@ -36,38 +34,20 @@ I'm a Computer Science undergraduate passionate about building **AI-powered**, *
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
+`Python` • `Java` • `C++` • `C` • `Dart` • `SQL`
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart" />
-</p>
+### ⚙️ Frameworks & Libraries
+`React.js` • `FastAPI` • `Flutter` • `TensorFlow` • `Scikit-learn` • `Pandas` • `NumPy` • `LightGBM` • `Gradio`
 
-### Frameworks & Libraries
+### 🗄️ Databases
+`MySQL` • `SQLite` • `Firebase`
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter,fastapi,firebase,tensorflow" />
-</p>
+### 🛠️ Tools & Platforms
+`Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `Power BI`
 
-- Scikit-learn
-- Pandas
-- NumPy
-- Gradio
-- LightGBM
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-- Power BI
-- Jupyter Notebook
+### 📚 Core CS
+`DSA` • `OOP` • `Operating Systems` • `Computer Networks` • `Cloud Computing`
 
 ---
 
@@ -78,23 +58,6 @@ I'm a Computer Science undergraduate passionate about building **AI-powered**, *
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MAHESWARI-ROUT&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHESWARI-ROUT&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MAHESWARI-ROUT&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🏆 Achievements
 
@@ -104,6 +67,18 @@ I'm a Computer Science undergraduate passionate about building **AI-powered**, *
 - 📈 Solved **128+ LeetCode** problems (and counting)
 
 ---
+# 📫 Connect With Me
+
+- 📧 **Email:** <a href="mailto:maheswarirout2005@gmail.com">maheswarirout2005@gmail.com</a>
+
+- 💼 **LinkedIn:**  
+  https://www.linkedin.com/in/maheswari-vaishno-rout/
+
+- 💻 **GitHub:**  
+  https://github.com/MAHESWARI-ROUT
+
+- 🧩 **LeetCode:**  
+  https://leetcode.com/u/Maheswari05/
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
