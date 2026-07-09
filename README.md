@@ -39,7 +39,7 @@ I'm a Computer Science undergraduate passionate about building **AI-powered**, *
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,dart,js" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,c,dart" />
 </p>
 
 ### Frameworks & Libraries
