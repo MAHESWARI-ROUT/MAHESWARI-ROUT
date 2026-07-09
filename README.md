@@ -99,9 +99,9 @@ I enjoy working across the stack, from machine learning models to backend APIs a
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MAHESWARI-ROUT&show_icons=true" />
+<img src="https://maheswari-vaishno-rout-g37-ai-ml.onrender.com/&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHESWARI-ROUT&layout=compact"/>
+<img src="https://pulse-alpha-two.vercel.app/&layout=compact"/>
 
 </p>
 
