@@ -51,12 +51,6 @@ I'm a Computer Science undergraduate passionate about building **AI-powered**, *
 
 ---
 
-# 📈 Coding Profiles
-
-- 💻 **LeetCode:** https://leetcode.com/u/Maheswari05/
-- 🔗 **LinkedIn:** https://linkedin.com/in/maheswari-vaishno-rout
-
----
 
 
 # 🏆 Achievements
